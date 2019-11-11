@@ -25,6 +25,15 @@ This repo is here to help you succeed through this 4-year program in ZJU CS.
 
 We wish you succeed and never become us, the [**zjufailure**](https://github.com/zjufailure)
 
+## Contribution
+
+If you are a student graduated from ZJU CS and are willing to share your experience and wisdom with the the younger ones, feel free to contribute!
+
+To protect your privacy, please **do not** start any pull requests. Instead, any potential contributions should go through e-mails with specified formats:
+
+- Address: zjufailure at protonmail dot com
+- Title: Starting with **[PR]**
+- Content: State your suggestion/idea/experience with supplementary description on why you think they are useful/important
 
 ## Must-Know Skills
 
