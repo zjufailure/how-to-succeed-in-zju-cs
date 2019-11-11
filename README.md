@@ -33,3 +33,7 @@ We wish you succeed and never become us, the [**zjufailure**](https://github.com
 ## Simple Facts
 
 - [ ] Most courses in ZJU CS are not worthy of your precious time to go into the room and stay there for hours.
+
+## About College of Computer Science and Technology
+
+- [ ] [Scholarship list](scholarship.md)
