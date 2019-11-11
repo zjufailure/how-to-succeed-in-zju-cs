@@ -24,4 +24,12 @@ Clearly everyone's definition of success and envision of the future differs, but
 This repo is here to help you succeed through this 4-year program in ZJU CS.
 
 We wish you succeed and never become us, the [**zjufailure**](https://github.com/zjufailure)
-  
+
+
+## Must-Know Skills
+
+- [ ] Learn to use [Git](https://git-scm.com/) and [GitHub](https://github.com/), to better cooperate with your teammates in course projects.
+
+## Simple Facts
+
+- [ ] Most courses in ZJU CS are not worthy of your precious time to go into the room and stay there for hours.
