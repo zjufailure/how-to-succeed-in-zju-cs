@@ -1,4 +1,4 @@
-# how-to-success-in-zju-cs
+# how-to-succeed-in-zju-cs
 
 ## Introduction
 
@@ -38,7 +38,7 @@ To protect your privacy, please **do not** start any pull requests. Instead, any
 ## Must-Know Skills
 
 - [ ] Learn to use [Git](https://git-scm.com/) and [GitHub](https://github.com/), to better cooperate with your teammates in course projects.
-- [ ] Learn to identity the courses that you can really benefit from and pay more attention to them. Spend more time on core courses such as FDS, ADS, network, operating system and database system since these courses can be greatly helpful to make you more competitive no matter you plan to pursue further education or you are gonna enter the workforce.
+- [ ] Learn to identify the courses that you can really benefit from and pay more attention to them. Spend more time on core courses such as FDS, ADS, network, operating system and database system since these courses can be greatly helpful to make you more competitive no matter you plan to pursue further education or you are gonna enter the workforce.
 - [ ] Learn to find references for your courses. It should be easy to find most solutions to the course exercises. You can even find some useful tips for course enrollment and final exmas in this repo [zju-icicles](https://github.com/QSCTech/zju-icicles). Making good use of these references can save you a lot of time.
 
 ## Simple Facts
