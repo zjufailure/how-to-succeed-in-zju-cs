@@ -47,6 +47,7 @@ To protect your privacy, please **do not** start any pull requests. Instead, any
 - [ ] Being aware of current situation including but not limited to what your schoolmates are busy with, how the macroenvironment is, where you could get the latest news such as exchange program, internship opportunities, etc will certainly help you to get prepared better.
 - [ ] Most courses in ZJU CS are not worthy of your precious time to go into the room and stay there for hours.
 - [ ] The finals of some courses remain almost unchanged every semester. Thus, if you can get a copy of the final exam paper in last semester for reference, the final could be unbelievably easy.
+- [ ] It's possible to participate in some exchange programs which are marked for CKC students only. Most host institutes don't even care which college you are studying in. Instead of expecting to be recommended by ZJU, you could visit the host institute's program homepage and apply for the program on your own.
 
 ## About College of Computer Science and Technology
 
