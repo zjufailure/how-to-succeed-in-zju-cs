@@ -46,6 +46,7 @@ To protect your privacy, please **do not** start any pull requests. Instead, any
 - [ ] Making the right decision is far more important than making great effort.
 - [ ] Being aware of current situation including but not limited to what your schoolmates are busy with, how the macroenvironment is, where you could get the latest news such as exchange program, internship opportunities, etc will certainly help you to get prepared better.
 - [ ] Most courses in ZJU CS are not worthy of your precious time to go into the room and stay there for hours.
+- [ ] The finals of some courses remain almost unchanged every semester. Thus, if you can get a copy of the final exam paper in last semester for reference, the final could be unbelievably easy.
 
 ## About College of Computer Science and Technology
 
