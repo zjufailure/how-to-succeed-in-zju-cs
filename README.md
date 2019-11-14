@@ -48,6 +48,7 @@ To protect your privacy, please **do not** start any pull requests. Instead, any
 - [ ] Most courses in ZJU CS are not worthy of your precious time to go into the room and stay there for hours.
 - [ ] The finals of some courses remain almost unchanged every semester. Thus, if you can get a copy of the final exam paper in last semester for reference, the final could be unbelievably easy.
 - [ ] It's possible to participate in some exchange programs which are marked for CKC students only. Most host institutes don't even care which college you are studying in. Instead of expecting to be recommended by ZJU, you could visit the host institute's program homepage and apply for the program on your own.
+- [ ] Given the competition in CS is becoming fiercer year by year, prepare yourself as early as possible. If you want to join the top tech companies, it is strongly recommend that you should start your internship in your junior year or even in your sophomore year. If you want to apply for a foreign grad school, join a lab and cultivate your research experience as soon as possible. You should also attach great importance to research intern opportunities.
 
 ## About College of Computer Science and Technology
 
